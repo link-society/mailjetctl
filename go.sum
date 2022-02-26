@@ -1,0 +1,6 @@
+github.com/hellflame/argparse v1.7.1 h1:a9zGYoeXWiWDh48suw9x/5znNsbkFZm3bDIy8mX5vWI=
+github.com/hellflame/argparse v1.7.1/go.mod h1:nOtOQAtkWh6u5msq6huJxZtjb+Yg9VeN0e7vRuBS49E=
+github.com/mailjet/mailjet-apiv3-go/v3 v3.1.1 h1:cvU3k9reWbprpX94lcA1/Fd4RMc0bZxdhipYdmnK0HM=
+github.com/mailjet/mailjet-apiv3-go/v3 v3.1.1/go.mod h1:Nw3mVzRxV0CVDTlzaRcADGKt4PMNbT7gYIyEtjMrVIM=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=

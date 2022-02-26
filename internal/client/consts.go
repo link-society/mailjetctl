@@ -1,0 +1,6 @@
+package client
+
+const (
+	MJ_APIKEY_PUBLIC_VAR  = "MJ_APIKEY_PUBLIC"
+	MJ_APIKEY_PRIVATE_VAR = "MJ_APIKEY_PRIVATE"
+)
